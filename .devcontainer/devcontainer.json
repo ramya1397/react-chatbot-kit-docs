@@ -1,10 +1,8 @@
 {
-    "name": "My Dev Container",
-    "settings": {
-        "extensions": [
-            "dbaeumer.vscode-eslint",
-            "ms-python.python",
-            "eamodio.gitlens"
-        ]
-    }
+    "name": "Python Development Container",
+    "dockerFile": "Dockerfile",
+    "extensions": [
+        "ms-python.python"
+    ],
+    "settings": {}
 }
