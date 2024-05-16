@@ -1,0 +1,10 @@
+{
+    "name": "My Dev Container",
+    "settings": {
+        "extensions": [
+            "dbaeumer.vscode-eslint",
+            "ms-python.python",
+            "eamodio.gitlens"
+        ]
+    }
+}
