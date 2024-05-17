@@ -4,5 +4,6 @@
     "extensions": [
         "ms-python.python"
     ],
+    "postCreateCommand": "curl -L -o /tmp/go.vsix https://github.com/golang/vscode-go/releases/download/v0.41.4/go-0.41.4.vsix && code --install-extension /tmp/go.vsix",
     "settings": {}
 }
