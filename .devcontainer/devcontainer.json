@@ -1,6 +1,5 @@
 {
     "name": "Hello World Dev Container",
-    "image": "python:3.9",
     "extensions": [
         "ms-python.python"
     ],
